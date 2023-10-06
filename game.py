@@ -8,8 +8,7 @@ def play_one_round(n):
     n = play_human_turn(n)
     if n == 0:
         return 0
-
-    print('Play human turn returned: ' + str(n))
+        
 
     n = play_computer_turn(n)
     if n == 0:
