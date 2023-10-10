@@ -19,7 +19,7 @@ def play_one_round(n):
 
 
 def play_game():
-    print("Welcome to the countdown from 21 game!")
+    print("Welcome to 21-coins game!")
     print("There are 21 coins on table.")
     print("On each player's turn, you may remove 1, 2, or 3 coins.")
     print("If a player removes all the coins, they win.")
