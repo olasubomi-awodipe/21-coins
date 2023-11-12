@@ -1,6 +1,5 @@
 import random
 
-
 def play_human_turn(n):
     # 1. prompt user for their move
     x = int(input("Make a move(1, 2 or 3): "))
@@ -29,8 +28,6 @@ def play_human_turn(n):
     else:
         return n
 
-    # You must implement this function
-
 
 def play_computer_turn(n):
     # 1. Make computer move
@@ -48,5 +45,3 @@ def play_computer_turn(n):
     # 3. return number of coins remaining
     else:
         return n - c
-
-    # You must implement this function
