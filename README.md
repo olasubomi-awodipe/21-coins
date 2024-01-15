@@ -9,5 +9,7 @@ In this game, the objective is simple yet challenging: be the player to take the
 **Features**
 
 **Immersive Gameplay**: Experience a captivating combinatorial game that showcases the power of strategic thinking and backward induction.
+
 **Perfect Computer Strategy**: The computer boasts a flawless strategy, ensuring that victory is always within its grasp. Can you outsmart it?
+
 **First Move Advantage**: As the human player, you get the privilege of making the initial move. Seize the opportunity and set the stage for an engaging battle.
