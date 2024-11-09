@@ -4,7 +4,3 @@ Welcome to the 21-coins repository! This project features an impartial combinato
 
 
 
-```
-My name is Olasubomi
-```
-
